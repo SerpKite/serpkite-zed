@@ -1,0 +1,5 @@
+{
+  /// Optional: your SerpKite API key (skt_live_…) from https://app.serpkite.com/keys.
+  /// Leave null to sign in with OAuth in the browser instead.
+  "serpkite_api_key": null
+}
