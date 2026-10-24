@@ -1,6 +1,6 @@
 id = "mcp-server-serpkite"
 name = "SerpKite MCP Server"
-description = "Google search, news, maps, scholar and public webpages as Markdown for Zed's Agent Panel, via SerpKite's hosted MCP server"
+description = "Google search, news, maps, webpages, cited answers and deep research for Zed's Agent Panel, via SerpKite's hosted MCP server"
 version = "0.1.0"
 schema_version = 1
 authors = ["SerpKite <support@serpkite.com>"]

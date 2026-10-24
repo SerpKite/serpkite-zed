@@ -1,6 +1,6 @@
 # SerpKite MCP Server for Zed
 
-This extension adds [SerpKite](https://serpkite.com)'s hosted MCP server to Zed's Agent Panel: Google search (web, news, images, videos, maps, places, shopping, scholar, patents, autocomplete), one place's full details, and public webpages, extraction and site crawls as LLM-ready Markdown.
+This extension adds [SerpKite](https://serpkite.com)'s hosted MCP server to Zed's Agent Panel: Google search (web, news, images, videos, maps, places, shopping, scholar, patents, autocomplete), one place's full details, public webpages, extraction and site crawls as LLM-ready Markdown, plus cited answers from live Google results and async deep research reports.
 
 It runs [`mcp-remote`](https://www.npmjs.com/package/mcp-remote) to connect to `https://api.serpkite.com/v1/mcp`. Nothing is bundled.
 
@@ -27,7 +27,7 @@ New accounts get 1,000 free credits, plus 1,000 every month. Failed and empty se
 
 ## Tools
 
-`search`, `news`, `maps`, `place`, `scholar`, `patents`, `shopping`, `images`, `videos`, `autocomplete`, `webpage`, `extract`, `map`, `crawl`, `crawl_result`. Inputs and costs: [serpkite.com/docs/mcp](https://serpkite.com/docs/mcp).
+`search`, `news`, `maps`, `place`, `scholar`, `patents`, `shopping`, `images`, `videos`, `autocomplete`, `webpage`, `answer`, `extract`, `map`, `crawl`, `crawl_result`, `research`, `research_result`. Inputs and costs: [serpkite.com/docs/mcp](https://serpkite.com/docs/mcp).
 
 ## License
 
