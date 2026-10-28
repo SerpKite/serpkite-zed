@@ -1,4 +1,4 @@
-SerpKite gives the Agent Panel Google search (web, news, images, videos, maps, places, shopping, scholar, patents, autocomplete) and public webpages, extraction and site crawls as LLM-ready Markdown, plus cited answers and deep research reports.
+SerpKite gives the Agent Panel Google search (web, news, images, videos, maps, places, shopping, scholar, patents, autocomplete) and public webpages, extraction and site crawls as LLM-ready Markdown, plus cited answers, deep research reports and the answers of ChatGPT, Gemini, Copilot Search, Google AI Mode and Brave with their cited sources.
 
 You can connect in two ways:
 
